@@ -1,0 +1,11 @@
+pg_uname: postgres
+pg_pass: ""
+pg_name: plivo
+pg_ip: 192.168.59.103
+pg_port: 5432
+
+redis_pass: "" 
+redis_ip: 192.168.59.103:6379
+
+max_text_count: 2
+sms_url: http://3da538ad.ngrok.com/call
